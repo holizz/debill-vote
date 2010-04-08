@@ -1,0 +1,6 @@
+The ayes and the noes with the name of the party from the vote to pass the Digital Economy Bill past the 3rd reading taken from Hansard[1].
+
+Used TheyWorkForYou's list of MPs[2] for the purpose. Mostly automated (see working/cmp.rb, working/mps), some manual.
+
+[1] http://www.publications.parliament.uk/pa/cm/cmtoday/cmdebate/32.htm#hddr_2
+[2] http://www.theyworkforyou.com/mps/
